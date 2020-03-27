@@ -1,0 +1,8 @@
+C:\Users\jfg56\OneDrive\Escritorio\Cliente_versión_1\Cliente_versión_1\bin\Debug\Cliente_versión_1.exe
+C:\Users\jfg56\OneDrive\Escritorio\Cliente_versión_1\Cliente_versión_1\bin\Debug\Cliente_versión_1.pdb
+C:\Users\jfg56\OneDrive\Escritorio\Cliente_versión_1\Cliente_versión_1\obj\x86\Debug\Cliente_versión_1.Form1.resources
+C:\Users\jfg56\OneDrive\Escritorio\Cliente_versión_1\Cliente_versión_1\obj\x86\Debug\Cliente_versión_1.Properties.Resources.resources
+C:\Users\jfg56\OneDrive\Escritorio\Cliente_versión_1\Cliente_versión_1\obj\x86\Debug\Cliente_versión_1.Registro.resources
+C:\Users\jfg56\OneDrive\Escritorio\Cliente_versión_1\Cliente_versión_1\obj\x86\Debug\Cliente_versión_1.csproj.GenerateResource.Cache
+C:\Users\jfg56\OneDrive\Escritorio\Cliente_versión_1\Cliente_versión_1\obj\x86\Debug\Cliente_versión_1.exe
+C:\Users\jfg56\OneDrive\Escritorio\Cliente_versión_1\Cliente_versión_1\obj\x86\Debug\Cliente_versión_1.pdb
